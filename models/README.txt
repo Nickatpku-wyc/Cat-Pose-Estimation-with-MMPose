@@ -1,0 +1,1 @@
+Link for model.pth: https://drive.google.com/file/d/1y9ehHT5erMEujlby3mKWkqkv_7feifeb/view?usp=sharing
