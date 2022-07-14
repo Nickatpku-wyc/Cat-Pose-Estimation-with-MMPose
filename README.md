@@ -1,4 +1,4 @@
-### Assignment 1 -- Cat Pose_Estimation
+### Cat Pose_Estimation
 
 #### Introduction
 
